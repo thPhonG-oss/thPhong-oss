@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Phong</h1>
 <h3 align="center">A passionate Backend developer from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thphong-oss&label=Profile%20views&color=0e75b6&style=flat" alt="thphong-oss" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thphong-oss" alt="thphong-oss" /></a> </p>
-
 - 🌱 I’m currently learning **in HCMUS, VNUHCM**
+
+- 📫 How to reach me **ngthanhphong0817@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/thphong-oss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thphong-oss" height="30" width="40" /></a>
+<a href="https://dev.to/thphongoss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thphongoss" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nguyenthanhphong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyenthanhphong" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
