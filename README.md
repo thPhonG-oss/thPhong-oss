@@ -10,6 +10,8 @@
 <a href="https://www.linkedin.com/in/phong-nguyenthanh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyenthanhphong" height="30" width="40" /></a>
 </p>
 
+---
+
 ### About Me
 
 Final-year Computer Science student at HCMUS with a strong focus on backend development.
