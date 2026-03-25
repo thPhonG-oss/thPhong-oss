@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Phong</h1>
-<h3 align="center">A passionate Backend developer from Vietnam</h3>
+<h1 align="center">Hi, I'm Phong 👋</h1>
 
-- 🌱 I’m currently learning **in HCMUS, VNUHCM**
-
-- 📫 How to reach me **ngthanhphong0817@gmail.com**
+<p align="center">
+  Backend Developer · HCMUS, VNUHCM · Ho Chi Minh City, Vietnam
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,5 +10,32 @@
 <a href="https://www.linkedin.com/in/phong-nguyenthanh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyenthanhphong" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### About Me
+
+Final-year Computer Science student at HCMUS with a strong focus on backend development.
+I enjoy designing clean, scalable systems — from REST APIs to microservices architecture.
+I pick up new technologies quickly and thrive when collaborating with others to solve hard problems.
+
+- 🎓 Graduating soon from **HCMUS, VNUHCM**
+- 🔭 Currently building with **Java Spring Boot & Microservices**
+- 🌱 Deepening knowledge in **System Design & CI/CD**
+- 💡 Open to **fresher / junior backend roles**
+
+---
+
+### Tech Stack
+
+**Backend & Architecture**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+**DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
+</p>
